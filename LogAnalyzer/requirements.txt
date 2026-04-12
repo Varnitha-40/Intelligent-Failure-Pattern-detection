@@ -1,0 +1,8 @@
+streamlit
+polars
+numpy
+sentence-transformers
+pyod
+scikit-learn
+plotly
+torch
